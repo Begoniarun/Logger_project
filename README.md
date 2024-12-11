@@ -4,7 +4,7 @@ A logger is a tool used in software development to record messages or informatio
 在项目的 Cargo.toml 中添加依赖：
 
 [dependencies]
-log = "0.4"
+log = "0.4"\n
 
 env_logger = "0.10"
 
